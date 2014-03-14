@@ -1,4 +1,7 @@
+src/*.class
 final/*.epub
 final/*.mobi
 final/*.pdf
 .DS_STORE
+metadata.xml
+final/*
