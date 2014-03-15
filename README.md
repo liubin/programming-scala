@@ -6,6 +6,29 @@
 - 顺便加深学习。
 - Scala本身挺有意思的。
 
+## 目录
+
+- 第一部分: Scala语言基础
+  - Scala简介
+  - Scala基础知识
+  - Scala基本语法和控制结构
+  - Scala基本数据类型
+  - 面向对象编程
+  - Traits
+  - Packages
+- 第二部分：Scala高级特性
+  - Concurrency programming
+  - Functional Programming
+  - Pattern Matching
+  - 集合类(Collections)
+  - Interacting with Java
+  - The Simple Build Tool (SBT)
+- 第三部分：实用Scala
+  - Files
+  - Database
+  - Web Service
+  - Play for Scala
+
 ## 欢迎协作
 
   如果你也有兴趣，那么欢迎你加入进来，联系方式Twitter [@ourcolorfuldays](https://twitter.com/OurColorfulDays)
