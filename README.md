@@ -9,7 +9,7 @@
 ## 目录
 
 - 第一部分: Scala语言基础
-  - Scala简介
+  - (Scala简介](content/01_intro.md)
   - Scala基础知识
   - Scala基本语法和控制结构
   - Scala基本数据类型
@@ -27,7 +27,7 @@
   - Files
   - Database
   - Web Service
-  - Play for Scala
+  - [Play for Scala](content/20_play_framework/00_preface.md)
 
 ## 欢迎协作
 
