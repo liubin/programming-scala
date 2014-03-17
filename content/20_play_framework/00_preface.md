@@ -8,6 +8,6 @@ Scala也不例外，Play Framework（*注 2*）就是这么一个框架。本章
 
 
 
-*注 1：<https://www.djangoproject.com/weblog/2005/nov/16/firstrelease/> *
-*注 2：<http://www.playframework.com/> *
+*注 1：<https://www.djangoproject.com/weblog/2005/nov/16/firstrelease/>*  
+*注 2：<http://www.playframework.com/>*  
 *注 3：<http://www.heroku.com/>，一个PasS平台，除了一个应用执行环境之外， 它还提供了很多组件，比如数据库、缓存、日志、监控、邮件等。你可以免费在heroku上免费运行一个dynos单元。*
