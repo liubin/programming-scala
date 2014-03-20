@@ -75,7 +75,7 @@ chmod a+x framework/build
 
 最后需要确保下面的文件都有可执行权限，如下图 20-1 中绿色所示：
 
-![](../../assets/content_images/20-02-1.png)
+![](../../assets/content_images/20_02_01.png)
 
 注意：如果你是Windows用户的话，最好不要将它解压到带空格的文件夹里去，否则后面很可能会遇到麻烦。就我本人而言，不管在什么OS系统下，文件名都不会包含空格、汉字等。
 
@@ -103,7 +103,7 @@ $ play
 
 如果不带任何参数，则程序输出如下：
 
-![](../../assets/content_images/20-02-2.png)
+![](../../assets/content_images/20_02_02.png)
 
 
 这样就说明Play已经安装成功了。从下一小节开始，我们就将一步步的学习如何使用Play来开发Web应用程序。期待吧，少年。

@@ -7,6 +7,20 @@ Scala也不例外，Play Framework（*注 2*）就是这么一个框架。本章
 首先，我们基于Play的官方文档，对Play的架构、使用方法等进行介绍。之后我们会使用Play来构建一个简单的Web应用，并部署到Heroku（*注 3*）上。
 
 
+这部分内容主要包括：
+
+- [Play简介](01_intro.md)
+- [安装Play](02_install.md)
+- [创建第一个Play应用](03_first_application.md)
+- [Controller](04_framework_controller.md)
+- [模板引擎](05_framework_template.md)
+- [路由分发](06_framework_route.md)
+- [使用数据库](07_databases.md)
+- [异步处理](08_synchronous.md)
+- [表单验证](09_form_and_validation.md)
+- [部署Play应用](10_form_and_validation.md)
+- [完整示例](11_project_fireup.md)
+
 
 *注 1：<https://www.djangoproject.com/weblog/2005/nov/16/firstrelease/>*  
 *注 2：<http://www.playframework.com/>*  
