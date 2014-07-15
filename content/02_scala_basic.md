@@ -191,3 +191,12 @@ $ chmod +x helloworld.sh
 $ ./helloworld.sh
 Hello, world!
 ```
+
+
+## REPL（Read-Evaluate-Print-Loop）
+
+前面我们看到的`scala`解释器也可以称为REPL：读取（Read）用户输入并计算（Evaluate），将计算结果显示到屏幕（Print），然后继续等待（Loop）用户输入。REPL工具对初学一门语言来说是一门非常方便的工具。即使你非常熟悉Scala语言，你也可以使用REPL进行快速的研究。
+
+
+
+
